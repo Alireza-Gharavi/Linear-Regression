@@ -1,8 +1,10 @@
 # Linear-Regression
 
+Linear regression from scratch
+---
 
 This repository involves a comparison between two Linear regressors, one version implemented from scratch and another implemented using the scikit-learn module.
----
+
 This notebook is divided into two main parts:
  - Simple linear regression
  - Polynomial regression
