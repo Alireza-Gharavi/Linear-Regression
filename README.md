@@ -1,6 +1,7 @@
 # Linear-Regression
 
-This repository involves a comparison between two Linear regressor, a version implemented from scratch and another implemented using scikit-learn module.
+
+This repository involves a comparison between two Linear regressors, one version implemented from scratch and another implemented using the scikit-learn module.
 ---
 This notebook is divided into two main parts:
  - Simple linear regression
